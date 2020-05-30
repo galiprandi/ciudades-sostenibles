@@ -30,7 +30,7 @@ Cuando nos referimos a movilidad individual, pensamos principalmente en la bicic
 
 Algunos ejemplos en los que inspirarse
 Muchas grandes urbes se han adaptado con éxito a la movilidad individual y sin dudas deben ser ejemplos en los que inspirarse. Ciudades cómo: Ámsterdam, Copenhague, Barcelona, Bogotá, New York, Curitiva, Montreal entre otras.
-[Galería de Imágenes](#)
+[Galería de Imágenes](post/cuidades_que_inspiran.md)
 
 ## Propuestas
 Las propuestas se organizarán según las áreas principales que involucren, aunque en su mayoría deberán ser coordinadas entre varios departamentos municipales en conjunto.

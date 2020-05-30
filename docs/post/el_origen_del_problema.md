@@ -8,7 +8,7 @@ Esto hace qué regularmente, sea necesario realizar grandes inversiones en infra
 
 >### Muchas de las inversiones que realizan las ciudades no están destinadas a solucionar la raíz de los problemas sino que sólo aspiran a disminuir su impacto.
 
-![Auto Cine de los años '50](el_origen_del_problema-2.jpg)(Auto Cine de los años '50)
+![Auto Cine de los años '50](el_origen_del_problema.2.jpg)(Auto Cine de los años '50)
 
 >### Los problemas de movilidad provienen de importar la cultura automotriz de los Estados Unidos de posguerra, en ciudades diseñadas a espejo de las principales capitales Europeas.
 
