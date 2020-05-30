@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/galiprandi/ciudades-sostenibles/issues"
   },
-  "homepage": "https://github.com/galiprandi/ciudades-sostenibles#readme"
+  "homepage": "https://github.com/galiprandi/ciudades-sostenibles#readme",
+  "devDependencies": {
+    "marked": "^1.1.0"
+  }
 }
