@@ -10,7 +10,7 @@ El proyecto promueve la integración horizontal y conjunta de múltiples áreas 
 
 Basado en la firme convicción de que la previsión, adaptación y el ordenamiento de las nuevas costumbres y formas de desplazarse, es el único camino para lograr sostenibilidad y crecimiento organizado de los municipios y principales centros urbanos.
 
-Para ello, el proyecto sugiere una serie de medidas y recomendaciones de simple implementación, bajo coste, y alto impacto social y cultural que describiremos más adelante en detalle.
+Para ello, el proyecto sugiere una serie de medidas y recomendaciones de **simple implementación, bajo coste, y alto impacto social y cultural** que describiremos más adelante en detalle.
 
 ## El origen del problema
 Por regla general, las ciudades evolucionan al ritmo del crecimiento demográfico, sin demasiado planeamiento a futuro y atendiendo sólo las necesidades más inmediatas.
@@ -18,8 +18,8 @@ Por regla general, las ciudades evolucionan al ritmo del crecimiento demográfic
 Esto hace qué regularmente, sea necesario realizar grandes actualizaciones de infraestructura y servicios, colapsando por meses o años, áreas críticas  o sensibles para el el normal desenvolvimiento.
 [continuar leyendo](post/el_origen_del_problema.md)
 
-Con el foco en la movilidad individual
-Las costumbres en los grandes centros urbanos están migrando lentamente convergiendo en dos principales formas de transporte, el transporte público y masivo y la movilidad individual.
+## Con el foco en la movilidad individual
+Las costumbres en los grandes centros urbanos están migrando lentamente convergiendo en dos principales formas de transporte, **el transporte público y masivo y la movilidad individual**.
 
 Creemos que al día de hoy, ambas formas de transporte no han logrado una integración acorde, y es por ello que muchos habitantes son reacios a su utilización frecuente optando por vehículos de combustión interna con sus conocidas desventajas.
 
