@@ -6,35 +6,40 @@
 
 ## Sobre el proyecto
 
-El proyecto promueve la integración horizontal y conjunta de múltiples áreas municipales en beneficio de recuperar los espacios comunes y re adaptarlos a sus habitantes.
+El proyecto promueve la integración horizontal y conjunta de múltiples áreas municipales en beneficio de recuperar espacios comunes y re adaptarlos a sus habitantes.
 
-Basado en la firme convicción de que la previsión, adaptación y el ordenamiento de las nuevas costumbres y formas de desplazarse, es el único camino para lograr sostenibilidad y crecimiento organizado de los municipios y principales centros urbanos.
+Basado en la firme convicción de que la previsión, adaptación y el ordenamiento de las nuevas costumbres y formas de desplazarse, es el único camino para lograr sostenibilidad y crecimiento organizado de los municipios y centros urbanos.
 
-Para ello, el proyecto sugiere una serie de medidas y recomendaciones de **simple implementación, bajo coste, y alto impacto social y cultural** que describiremos más adelante en detalle.
+Para ello, el proyecto sugiere una serie de medidas y recomendaciones, todas ellas de **simple implementación, bajo coste, y alto impacto social y cultural** que describiremos más adelante en detalle.
+
+## ¿ Qué significa movilidad individual ?
+Cuando nos referimos a movilidad individual, pensamos principalmente en la bicicleta, que es el vehículo elegido por excelencia por su simplicidad y bajo costo de adquisición y mantenimiento, pero también aquelleas alternativas, principalmente **ecológica y saludables** cómo: los patinetes, los skateboard, segway, etc.
+
+Cualquier forma de transporte que sea ecológicamente sustentable, requiera de un mínimo de esfuerzo físico y sea amigable con el peatón, sin generar congestión de tránsito o problemas de estacionamiento, debería ser fomentadas por los municipios por sobre otras alternativas.
+
+## Ciudades qué inspiran
+Muchas grandes urbes se han adaptado con éxito a la movilidad individual y sin dudas deben ser ejemplos en los que inspirarse. Ciudades cómo: Ámsterdam, Copenhague, Barcelona, Bogotá, New York, Curitiva, Montreal entre otras, están logrando un gran equilibrio entre movilidad y calidad de vida. 
+
+Estas ciudades, han adaptado sus centros urbanos para fomentar el **uso combinado** de transporte público y movilidad individual. Mejorando la calidad de vida de sus habitantes e incluso convirendose en destinos turísticos y el anhelo de los ciudadanos de otras urbes.
+[Galería de Imágenes](post/cuidades_que_inspiran.md)
 
 ## El origen del problema
-Por regla general, las ciudades evolucionan al ritmo del crecimiento demográfico, sin demasiado planeamiento a futuro y atendiendo sólo las necesidades más inmediatas.
+Por regla general, las ciudades evolucionan al ritmo de su crecimiento demográfico, sin demasiado planeamiento a futuro y atendiendo sólo las necesidades más inmediatas.
 
-Esto hace qué regularmente, sea necesario realizar grandes actualizaciones de infraestructura y servicios, colapsando por meses o años, áreas críticas  o sensibles para el el normal desenvolvimiento.
+Esto hace qué regularmente, sea necesario realizar grandes actualizaciones de infraestructura y servicios, colapsando por meses o años áreas críticas o sensibles para el el normal desenvolvimiento. A veces sólo con el fin de dar solución temporales o de corto plazo.
 [continuar leyendo](post/el_origen_del_problema.md)
 
 ## Con el foco en la movilidad individual
-Las costumbres en los grandes centros urbanos están migrando lentamente convergiendo en dos principales formas de transporte, **el transporte público y masivo y la movilidad individual**.
+Las costumbres en los grandes centros urbanos están migrando lentamente convergiendo en dos principales formas de transporte, **el transporte público y masivo, y la movilidad individual**.
 
-Creemos que al día de hoy, ambas formas de transporte no han logrado una integración acorde, y es por ello que muchos habitantes son reacios a su utilización frecuente optando por vehículos de combustión interna con sus conocidas desventajas.
+Creemos que al día de hoy, ambas formas de transporte no han logrado una integración acorde en muchos centros urbanos, y es por ello que muchos habitantes son reacios a su utilización frecuente, optando por vehículos de combustión interna con sus conocidas desventajas.
 
-Realizando pequeñas inversiones en infraestructura, es posible lograr que muchas más personas opten por medios individuales de transporte, que son más simples de administrar en grandes cantidades y su impacto socio cultural es más saludable.
-
-## ¿ Qué significa movilidad individual ?
-Cuando nos referimos a movilidad individual, pensamos principalmente en la bicicleta, que es el vehículo elegido por excelencia, pero también todas las otras alternativas ecológicas, saludables cómo: La bicicleta, El patinete, El skateboard, Segway, etc.
-
-Algunos ejemplos en los que inspirarse
-Muchas grandes urbes se han adaptado con éxito a la movilidad individual y sin dudas deben ser ejemplos en los que inspirarse. Ciudades cómo: Ámsterdam, Copenhague, Barcelona, Bogotá, New York, Curitiva, Montreal entre otras.
-[Galería de Imágenes](post/cuidades_que_inspiran.md)
+Tambiénccreemos que realizando pequeñas inversiones en infraestructura, o adaptando la existente, es posible lograr que muchas más personas opten por medios individuales de transporte en convinacion con el transporte público, que son más simples de administrar en grandes cantidades y su impacto socio cultural es más saludable.
 
 ## Propuestas
-Las propuestas se organizarán según las áreas principales que involucren, aunque en su mayoría deberán ser coordinadas entre varios departamentos municipales en conjunto.
-Todas las propuestas tiene un único objetivo, devolver la mayor cantidad de espacio comunitario a las personas, fomentando y desfavoreciendo usos y costumbres, siempre pensando en la sostenibilidad y escalabilidad de esas medidas.
+Las propuestas se organizarán según las principales áreas municipales que involucren, aunque en su mayoría deberán ser coordinadas entre varios departamentos en conjunto.
+
+>### Todas las propuestas tiene un único objetivo, devolver la mayor cantidad de espacio comunitario a las personas, fomentando y desfavoreciendo usos y costumbres, siempre pensando en la sostenibilidad y escalabilidad de esas medidas.
 
 ## Tránsito:
 - Diagramar y extender ciclo vías y áreas de acceso exclusivo para peatones y medios individuales de movilidad.
