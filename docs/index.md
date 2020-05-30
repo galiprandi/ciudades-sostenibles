@@ -43,7 +43,7 @@ Todas las propuestas tiene un único objetivo, devolver la mayor cantidad de esp
 
 - Reglamentar la implementación y el uso de los carriles especiales para vehículos ecológicos o limitados a velocidades máximas.
  
- ## Educación:
+## Educación:
 - Proveer a las escuelas de bicicletas para que los niños realicen deportes que desarrollen el equilibrio y la motricidad fina y adquieran hábitos saludables.
 
 - Promover el uso bicicletas o monopatines para desplazarse a los centros de enseñanza y centros de actividades deportivas, adaptando estos lugares y sus accesos para priorizar el ingreso y resguardo de los vehículos. 
@@ -64,14 +64,14 @@ Todas las propuestas tiene un único objetivo, devolver la mayor cantidad de esp
 
 - Promover asociaciones que incentiven disciplinas de gran impacto en la salud y escuelas de formación en disciplinas deportivas.  
  
-Infraestructura y Planeamiento:
+## Infraestructura y Planeamiento:
 - Desarrollar instalaciones públicas específicas para disciplinas cómo: Bike Park, Skate Park, Pump Track, etc.
   
 - Adaptar espacios públicos al transito de pequeños vehículos instalando sendas iluminadas con seguridad y monitoreo.
 
 - Garantizar la iluminación, el monitoreo electrónico, la seguridad presencial en áreas de aparcamiento o circulación importante.
  
-Comercio y Actividad Económica:
+## Comercio y Actividad Económica:
 - Facilitar la refacción y adquisición de bicicletas fomentando el comercio relacionado y generando una línea de crédito especial para ese fin.
 
 - Exigir a grandes comercios, bancos, instituciones, organismos y lugares de grandes afluencias de público que dispongan de espacios adecuados y seguros para el establecimiento de pequeños vehículos.
