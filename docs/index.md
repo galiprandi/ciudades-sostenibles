@@ -16,7 +16,7 @@ Para ello, el proyecto sugiere una serie de medidas y recomendaciones de simple 
 Por regla general, las ciudades evolucionan al ritmo del crecimiento demográfico, sin demasiado planeamiento a futuro y atendiendo sólo las necesidades más inmediatas.
 
 Esto hace qué regularmente, sea necesario realizar grandes actualizaciones de infraestructura y servicios, colapsando por meses o años, áreas críticas  o sensibles para el el normal desenvolvimiento.
-[continuar leyendo](#top)
+[continuar leyendo]('./post/el_origen_del_problema.md)
 
 Con el foco en la movilidad individual
 Las costumbres en los grandes centros urbanos están migrando lentamente convergiendo en dos principales formas de transporte, el transporte público y masivo y la movilidad individual.
