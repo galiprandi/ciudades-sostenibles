@@ -4,7 +4,8 @@
   "description": "Ciudades Sostenible es un proyecto que busca consolidar la movilidad individual, centrándose en la bicicleta, como eje de un nuevo orden socio cultural que promueva la sostenibilidad de la ciudades y re adapte sus espacios en beneficio de sus habitantes.",
   "main": "./src/index.md",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "parcel ./src/index.md --open --host 192.168.1.50 --port 8080",
+    "build": "parcel build ./src/index.md --out-dir docs"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/galiprandi/ciudades-sostenibles#readme",
   "devDependencies": {
+    "cssnano": "^4.1.10",
     "marked": "^1.1.0"
   }
 }
