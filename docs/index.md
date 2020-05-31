@@ -27,7 +27,7 @@ Estas ciudades, han adaptado sus centros urbanos para fomentar el **uso combinad
 Por regla general, las ciudades evolucionan al ritmo de su crecimiento demográfico, sin demasiado planeamiento a futuro y atendiendo sólo las necesidades más inmediatas.
 
 Esto hace qué regularmente, sea necesario realizar grandes actualizaciones de infraestructura y servicios, colapsando por meses o años áreas críticas o sensibles para el el normal desenvolvimiento. A veces sólo con el fin de dar solución temporales o de corto plazo.
-[continuar leyendo](post/el_origen_del_problema.md)
+[continuar leyendo...](post/el_origen_del_problema.md)
 
 ## Con el foco en la movilidad individual
 Las costumbres en los grandes centros urbanos están migrando lentamente convergiendo en dos principales formas de transporte, **el transporte público y masivo, y la movilidad individual**.
@@ -52,7 +52,7 @@ Las propuestas se organizarán según las principales áreas municipales que inv
 ## Educación:
 
 - Proveer a las escuelas de bicicletas para que los niños realicen deportes que desarrollen el equilibrio y la motricidad fina y adquieran hábitos saludables.
-
+[Detalles de la propuesta](post/educacion__promocion.md)
 - Promover el uso bicicletas o monopatines para desplazarse a los centros de enseñanza y centros de actividades deportivas, adaptando estos lugares y sus accesos para priorizar el ingreso y resguardo de los vehículos. 
  
 ## Deporte:
@@ -85,7 +85,7 @@ Las propuestas se organizarán según las principales áreas municipales que inv
 ## Comercio y Actividad Económica:
 
 - Facilitar la refacción y adquisición de bicicletas fomentando el comercio relacionado y generando una línea de crédito especial para ese fin.
- [Más detalles](post/propuestas__comercio__creditos.md)
+ [Detalles de la propuesta](post/propuestas__comercio__creditos.md)
 
 - Exigir a grandes comercios, bancos, instituciones, organismos y lugares de grandes afluencias de público que dispongan de espacios adecuados y seguros para el establecimiento de pequeños vehículos.
 
