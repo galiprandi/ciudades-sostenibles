@@ -6,7 +6,7 @@
 
 ## Micro créditos destinados a la reparación o el reciclado
 
-### Objetivos:
+#### Objetivos:
 - Qué más personas recuperen la sana costumbre de pedalear. 
 - Poner en circulaciónvvehículos abandonados o en mal estado. 
 - Fomentar la economía de barrio, generando trabajo en pequeños talleres de pintura y reparación y gomerías. 
