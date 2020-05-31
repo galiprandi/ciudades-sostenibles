@@ -1,6 +1,6 @@
 # ¡ Arreglar antes qué comprar ! 
 
->### En muchos hogares hay una bicicleta abandonada, y en otros hay más de una. Allí, en ese rincón juntando tierra, hay muchisimo potencial. 
+>### En muchos hogares hay una bicicleta abandonada, y en otros hay más de una. Allí, en ese rincón juntando tierra, hay muchisimo potencial.
 
 ![¡ Arreglar antes qué comprar !](propuestas__comercio__creditos.1.jpg)
 
@@ -28,6 +28,6 @@
 - Centros de capacitación y coordinación de profesionales del rubro.
 - Cursos de reparación y montaje de pequeños vehículos.
 
-> Los beneficiados de estos créditos podria ser los responsables en los centros Hágalo usted mismo.*
+> Los beneficiados de estos créditos podria ser los responsables en los centros Hágalo usted mismo.
 
 ### [| Volver atrás |](../index.md)
