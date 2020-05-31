@@ -42,6 +42,7 @@ Las propuestas se organizarán según las principales áreas municipales que inv
 >### Todas las propuestas tiene un único objetivo, devolver la mayor cantidad de espacio comunitario a las personas, fomentando y desfavoreciendo usos y costumbres, siempre pensando en la sostenibilidad y escalabilidad de esas medidas.
 
 ## Tránsito:
+
 - Diagramar y extender ciclo vías y áreas de acceso exclusivo para peatones y medios individuales de movilidad.
 
 - Crear estacionamiento exclusivos y gratuitos para bicicletas o pequeños vehículos distribuidos a los largo de las ciclo vías, zonas céntricas, grandes centros comerciales, instituciones educativas y municipales, espacio verdes y donde la población lo requiera. Con los sistema de seguridad electrónica, física y humana necesarios para garantizar el resguardo de los bienes.
@@ -49,15 +50,18 @@ Las propuestas se organizarán según las principales áreas municipales que inv
 - Reglamentar la implementación y el uso de los carriles especiales para vehículos ecológicos o limitados a velocidades máximas.
  
 ## Educación:
+
 - Proveer a las escuelas de bicicletas para que los niños realicen deportes que desarrollen el equilibrio y la motricidad fina y adquieran hábitos saludables.
 
 - Promover el uso bicicletas o monopatines para desplazarse a los centros de enseñanza y centros de actividades deportivas, adaptando estos lugares y sus accesos para priorizar el ingreso y resguardo de los vehículos. 
  
 ## Deporte:
+
 - Organizar y promover competencias deportivas relacionadas con el running y el ciclismo.
 - Apoyo y seguimiento a deportistas locales.
  
 ## Turismo:
+
 - Promover actividades turísticas y recreacionales basadas en el ciclo turismo integradas con actividades relacionadas como senderismo y afines.
 
 - Generar eventos que aprovechen las instalaciones existentes: Bike Park, Skate Park, Pump Track, etc.
@@ -65,11 +69,13 @@ Las propuestas se organizarán según las principales áreas municipales que inv
 - Mejoras, extender, señalizar, promover y publicitar senderos y circuitos aptos para peatones y ciclistas. 
  
 ## Salud y Deportes:
+
 - Organizar competencias oficiales y todo estímulo relacionado con el running y las disciplinas ciclísticas.
 
 - Promover asociaciones que incentiven disciplinas de gran impacto en la salud y escuelas de formación en disciplinas deportivas.  
  
 ## Infraestructura y Planeamiento:
+
 - Desarrollar instalaciones públicas específicas para disciplinas cómo: Bike Park, Skate Park, Pump Track, etc.
   
 - Adaptar espacios públicos al transito de pequeños vehículos instalando sendas iluminadas con seguridad y monitoreo.
@@ -77,7 +83,9 @@ Las propuestas se organizarán según las principales áreas municipales que inv
 - Garantizar la iluminación, el monitoreo electrónico, la seguridad presencial en áreas de aparcamiento o circulación importante.
  
 ## Comercio y Actividad Económica:
+
 - Facilitar la refacción y adquisición de bicicletas fomentando el comercio relacionado y generando una línea de crédito especial para ese fin.
+ [Más detalles](post/propuestas__comercio__creditos.md)
 
 - Exigir a grandes comercios, bancos, instituciones, organismos y lugares de grandes afluencias de público que dispongan de espacios adecuados y seguros para el establecimiento de pequeños vehículos.
 
@@ -86,4 +94,5 @@ Las propuestas se organizarán según las principales áreas municipales que inv
 - Implementar o fomentar servicios de alquiler de pequeños vehículos eléctricos o de tracción humana para usuarios casuales y turistas. 
  
 ## Legislativo:
+
 - Adaptar el reglamento existe a los nuevos medios de transportes como el monopatín.
