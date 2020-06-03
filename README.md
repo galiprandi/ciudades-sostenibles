@@ -17,7 +17,7 @@ No dudes en dejar tu segerencia o mensaje de aliento, pero también `celebramos 
 - [Guía de markdown](https://markdown-it.github.io/)
 
 ## Tareas por realizar
-- [] Completar documentación
-- [] Agregar manifest.json
+- [ ] Completar documentación
+- [ ] Agregar manifest.json
 
 ### Sitio mantenido por: [Germán Aliprandi](mailto:galiprandi@gmail.com)
