@@ -24,4 +24,4 @@ Video: Copenhague, ciudad de bicicletas
 
 
 ### [| Volver atrás |](../)
-[Editar ésta página]({{site.github.repository_url}}{{page.path}})
+[Editar ésta página]({{site.github.repository_url}}/{{page.path}})
