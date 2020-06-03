@@ -36,11 +36,9 @@
       {{ content }}
 
       <footer class="site-footer">
-        <span class="site-footer-owner"><a href="{{site.github.repository_url}}/edit/master/{{page.path}}">Lo invitamos a agregar o modificar contenido de ésta página.</a></span>
-        {% if site.github.is_project_page %}
-          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> es mantenido por <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
-        {% endif %}
-        <span class="site-footer-credits">Ésta página ha sido generada con <a href="https://pages.github.com">GitHub Pages</a>.</span>
+        <span class="site-footer-owner">Puede 
+          <a href="{{site.github.repository_url}}/edit/master/{{page.path}}">agregar o modificar</a> el contenido de ésta página si desea colaborar.
+        </span>
       </footer>
     </main>
   </body>
