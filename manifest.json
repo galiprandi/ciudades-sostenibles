@@ -1,0 +1,10 @@
+{
+  "name": "Ciudades Sostenibles",
+  "short_name": "Sostenibles",
+  "theme_color": "#0ed197",
+  "background_color": "#2196f3",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/"
+}
