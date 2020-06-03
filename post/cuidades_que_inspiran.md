@@ -23,4 +23,4 @@ Video: Copenhague, ciudad de bicicletas
 ![Montreal, Quebec, Canada](cuidades_que_inspiran.7.jpg)(Montreal, Quebec, Canada)
 
 
-### [| Volver atrás |](/)
+### [| Volver atrás |](../)
