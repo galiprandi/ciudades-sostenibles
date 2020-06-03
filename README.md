@@ -24,6 +24,6 @@ No dudes en dejar tu segerencia o mensaje de aliento, pero también `celebramos 
 
 - [x] Agregar manifest.json
 
-- [ ] Agregar icono
+- [x] Agregar icono
 
 Sitio mantenido por: [Germán Aliprandi](mailto:galiprandi@gmail.com)
