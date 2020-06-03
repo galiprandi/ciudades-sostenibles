@@ -8,16 +8,22 @@
 Valoramos y necesitamos el aporte de todos.
 No dudes en dejar tu segerencia o mensaje de aliento, pero también `celebramos las disidencias` porque creemos que es un gran punto de partida para mejorar hacia una vision más global e integradora.
 
-## Siguientes Pasos:
+## ¿ Cómo puedo colaborar con el proyecto ?
 - ### [Ingresando al sitio web](https://galiprandi.github.io/ciudades-sostenibles/) 
+  - Al final de cada página tiene un enlace para editar el docuemnto qué está leyendo.
+
 - ### [Realizar alguna sugerencias](https://github.com/galiprandi/ciudades-sostenibles/issues/ciudades-sostenibles/) (New issue)
-- ### [Contactar al equipo](mailto:galiprandi@gmail.com) 
+  - Por supuesto que puede dar su opinión si así lo desea.
+- ### [Contactar al equipo de mantenimiento](mailto:galiprandi@gmail.com) 
 
 ## Recursos:
 - [Guía de markdown](https://markdown-it.github.io/)
 
 ## Tareas por realizar
 - [ ] Completar documentación
-- [ ] Agregar manifest.json
 
-### Sitio mantenido por: [Germán Aliprandi](mailto:galiprandi@gmail.com)
+- [x] Agregar manifest.json
+
+- [ ] Agregar icono
+
+Sitio mantenido por: [Germán Aliprandi](mailto:galiprandi@gmail.com)
