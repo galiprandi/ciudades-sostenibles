@@ -38,4 +38,4 @@
 
 > Los beneficiados de estos créditos podria ser los responsables en los centros Hágalo usted mismo.
 
-### [| Volver atrás |](../index.md)
+### [| Volver atrás |](../)
