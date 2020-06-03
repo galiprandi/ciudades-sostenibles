@@ -17,4 +17,4 @@
 - Proveer a las escuelas de bicicletas de estrenamiendo para que los más pequeños desarrollen el equilibrio y motricidad fina. 
 
 
-### [| Volver atrás |](../index.md)
+### [| Volver atrás |](../)
