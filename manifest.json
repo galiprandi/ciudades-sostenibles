@@ -3,10 +3,10 @@
   "short_name": "SC",
   "theme_color": "#2196f3",
   "background_color": "#159957",
-  "display": "browser",
+  "display": "standalone",
   "orientation": "portrait",
   "Scope": "/",
-  "start_url": "{{ site.url }}",
+  "start_url": "https://galiprandi.github.io/ciudades-sostenibles/",
   "icons": [
     {
       "src": "assets/images/icons/icon-72x72.png",
