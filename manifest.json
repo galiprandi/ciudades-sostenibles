@@ -3,7 +3,7 @@
   "short_name": "SC",
   "theme_color": "#2196f3",
   "background_color": "#159957",
-  "display": "standalone",
+  "display": "browser",
   "orientation": "portrait",
   "Scope": "/",
   "start_url": "{{ site.url }}",
