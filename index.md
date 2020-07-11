@@ -23,6 +23,7 @@ Cualquier forma de transporte que sea ecológicamente sustentable, requiera de u
 Muchas grandes urbes se han adaptado con éxito a la movilidad individual y sin dudas deben ser ejemplos en los que inspirarse. Ciudades cómo: Ámsterdam, Copenhague, Barcelona, Bogotá, New York, Curitiva, Montreal entre otras, están logrando un gran equilibrio entre movilidad y calidad de vida.
 
 Estas ciudades, han adaptado sus centros urbanos para fomentar el **uso combinado** de transporte público y movilidad individual. Mejorando la calidad de vida de sus habitantes e incluso convirtiéndose en destinos turísticos y el anhelo de los ciudadanos de otras urbes.
+
 [Galería de Imágenes.](post/cuidades_que_inspiran.md)
 
 ## El origen del problema
@@ -30,7 +31,7 @@ Estas ciudades, han adaptado sus centros urbanos para fomentar el **uso combinad
 Por regla general, las ciudades evolucionan al ritmo de su crecimiento demográfico, sin demasiado planeamiento a futuro y atendiendo sólo las necesidades más inmediatas.
 
 Esto hace qué regularmente, sea necesario realizar grandes actualizaciones de infraestructura y servicios, colapsando por meses o años áreas críticas o sensibles para el el normal desenvolvimiento. A veces sólo con el fin de dar solución temporales o de corto plazo.
-[continuar leyendo...](post/el_origen_del_problema.md)
+[continúa...](post/el_origen_del_problema.md)
 
 ## Con el foco en la movilidad individual
 
@@ -48,21 +49,21 @@ Las propuestas se organizarán según las principales áreas que involucren, aun
 
 ## Seguridad
 
-> ### La seguridad es el Talón de Aquiles de éste tipo de movilidad, y muchas veces es la principal causa por la qué muchas iniciativas municipales no dispongan de la acogida esperada o perduren en el tiempo. Prácticamente todas las ciudad han creado ciclo vías y en su mayoría están abandonadas o casi no se utilizan. Realizar obras no es suficiente, se necesita contemplar otros aspectos, muchas veces más importantes.
+> ### La seguridad es el Talón de Aquiles de éste tipo de movilidad, y muchas veces es la principal causa por la qué muchas iniciativas municipales no dispongan de la acogida esperada o perduren en el tiempo. Prácticamente todas las ciudad han creado [ciclo vías](post/ciclovias_si_pero.md) y en su mayoría están abandonadas o casi no se utilizan. Realizar obras no es suficiente, se necesita contemplar otros aspectos, muchas veces más importantes.
 
 - La seguridad incluye varios factores: - Seguridad física con respecto a vehículos más grandes - Seguridad ante robo o hurto durante el desplazamiento - Estacionamiento seguro de los vehículos.
 
-- Las ciclo vías tienen cómo función, aislar el tránsito de mayor porte del más vulnerable, pero no son la única opción, también es posible restringir el acceso a determinadas áreas u horarios convirtiéndolas a uso peatonal y de pequeños vehículos. Esto favorece también al comercio y fomenta el cambio a largo plazo.
+- Las [ciclo vías](post/ciclovias_si_pero.md) tienen cómo función, aislar el tránsito de mayor porte del más vulnerable, pero no son la única opción, también es posible restringir el acceso a determinadas áreas u horarios convirtiéndolas a uso peatonal y de pequeños vehículos. Esto favorece también al comercio y fomenta el cambio a largo plazo.
 
 - El estacionamiento también es parte de la seguridad y puede usarse en favor de generar cambios de hábitos, por ejemplo proveyendo de espacios gratuitos y seguros y exigiendo a las empresas más grandes que cuenten con estos espacios también. Muchas veces se desiste de la idea de usar la bicicleta si no se está seguro que va a estar allí cuando uno regrese.
 
 ## Tránsito:
 
-- Diagramar y extender ciclo vías y áreas de acceso exclusivo para peatones y medios individuales de movilidad.
+- Diagramar y extender [ciclo vías](post/ciclovias_si_pero.md) y áreas de acceso exclusivo para peatones y medios individuales de movilidad.
 
-- Crear estacionamiento exclusivos y gratuitos para bicicletas o pequeños vehículos distribuidos a los largo de las ciclo vías, zonas céntricas, grandes centros comerciales, instituciones educativas y municipales, espacios verdes y en donde la población lo requiera. Con los sistema de seguridad electrónica, física y humana necesarios para garantizar el resguardo de los vehículos.
+- Crear estacionamiento exclusivos y gratuitos para bicicletas o pequeños vehículos distribuidos a los largo de las [ciclo vías](post/ciclovias_si_pero.md), zonas céntricas, grandes centros comerciales, instituciones educativas y municipales, espacios verdes y en donde la población lo requiera. Con los sistema de seguridad electrónica, física y humana necesarios para garantizar el resguardo de los vehículos.
 
-- Reglamentar la implementación y el uso de los carriles especiales para vehículos ecológicos o limitados a velocidades máximas.
+- Reglamentar la implementación y el uso de los [carriles especiales](post/ciclovias_si_pero.md) para vehículos ecológicos o limitados a velocidades máximas.
 
 ## Educación:
 
