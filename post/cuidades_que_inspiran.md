@@ -4,9 +4,9 @@
 
 <!-- Video: Copenhague, ciudad de bicicletas -->
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/HUbrLNHLfEU" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/HUbrLNHLfEU" frameborder="0" allowfullscreen="true" width="800" height="600"> </iframe>
+  <figcaption>Copenhague, ciudad de bicicletas</figcaption>
 </figure>
-Copenhague, ciudad de bicicletas
 
 [![Copenhague, ciudad de bicicletas](http://img.youtube.com/vi/HUbrLNHLfEU/0.jpg)](http://www.youtube.com/watch?v=HUbrLNHLfEU "Copenhague, ciudad de bicicletas")
 
