@@ -2,10 +2,10 @@
 
 > ### Muchas grandes urbes se han adaptado con éxito a la movilidad individual y sin dudas deben ser ejemplos en los que inspirarse. Ciudades cómo: Ámsterdam, Copenhague, Barcelona, Bogotá, New York, Curitiva, Montreal entre otras.
 
-<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="788.54" height="443" type="text/html" 
-src="https://www.youtube.com/embed/HUbrLNHLfEU">
-</iframe>
-
+<!-- Video: Copenhague, ciudad de bicicletas -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/HUbrLNHLfEU" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 Copenhague, ciudad de bicicletas
 
 [![Copenhague, ciudad de bicicletas](http://img.youtube.com/vi/HUbrLNHLfEU/0.jpg)](http://www.youtube.com/watch?v=HUbrLNHLfEU "Copenhague, ciudad de bicicletas")
