@@ -1,6 +1,6 @@
 # Ciclo vías sí, pero...
 
-![San Francisco, Polk Street](ciudades_que_inspiran.9.png)!
+![San Francisco, Polk Street](cuidades_que_inspiran.9.jpg)(San Francisco, Polk Street)
 
 > ### Las ciclo vías son un parte esencial de la infraestructura dedicada a la **movilidad individual**, y generalmente, es por donde muchos municipios deciden comenzar. Disponer de ciclo vías es importante, pero por sí solas no generan mejoras sustanciales. Antes de diagramar o construir una red de ciclo vías, es necesario planear y construir otro tipo de infraestructura que las sustente.
 
