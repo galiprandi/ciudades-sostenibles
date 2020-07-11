@@ -13,4 +13,4 @@ Texto de la sección
 
 <!-- Botón para volver al home -->
 
-### [| Volver atrás |](../)
+### [| Volver atrás |](https://galiprandi.github.io/ciudades-sostenibles/)
