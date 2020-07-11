@@ -14,15 +14,15 @@ Para ello, el proyecto sugiere una serie de medidas y recomendaciones, todas ell
 
 ## ¿ Qué significa movilidad individual ?
 
-Cuando nos referimos a movilidad individual, pensamos principalmente en la bicicleta, que es el vehículo elegido por excelencia por su simplicidad y bajo costo de adquisición y mantenimiento, pero también aquelleas alternativas, principalmente **ecológica y saludables** cómo los patinetes, los skateboard, segway, etc.
+Cuando nos referimos a movilidad individual, pensamos principalmente en la bicicleta, que es el vehículo elegido por excelencia por su simplicidad y bajo costo de adquisición y mantenimiento, pero también aquellas alternativas, principalmente **ecológica y saludables** cómo los patinetes, los skateboard, segway, etc.
 
-Cualquier forma de transporte que sea ecológicamente sustentable, requiera de un mínimo de esfuerzo físico y sea amigable con el peatón y el medio hambiente, sin generar congestión de tránsito o problemas de estacionamiento, debería ser fomentadas por los municipios por sobre otras alternativas.
+Cualquier forma de transporte que sea ecológicamente sustentable, requiera de un mínimo de esfuerzo físico y sea amigable con el peatón y el medioambiente, sin generar congestión de tránsito o problemas de estacionamiento, debería ser fomentadas por los municipios por sobre otras alternativas.
 
 ## Ciudades qué inspiran
 
 Muchas grandes urbes se han adaptado con éxito a la movilidad individual y sin dudas deben ser ejemplos en los que inspirarse. Ciudades cómo: Ámsterdam, Copenhague, Barcelona, Bogotá, New York, Curitiva, Montreal entre otras, están logrando un gran equilibrio entre movilidad y calidad de vida.
 
-Estas ciudades, han adaptado sus centros urbanos para fomentar el **uso combinado** de transporte público y movilidad individual. Mejorando la calidad de vida de sus habitantes e incluso convirendose en destinos turísticos y el anhelo de los ciudadanos de otras urbes.
+Estas ciudades, han adaptado sus centros urbanos para fomentar el **uso combinado** de transporte público y movilidad individual. Mejorando la calidad de vida de sus habitantes e incluso convirtiéndose en destinos turísticos y el anhelo de los ciudadanos de otras urbes.
 [Galería de Imágenes.](post/cuidades_que_inspiran.md)
 
 ## El origen del problema
@@ -38,7 +38,7 @@ Las costumbres en los grandes centros urbanos están migrando lentamente converg
 
 Creemos que al día de hoy, ambas formas de transporte no han logrado una integración acorde en muchos centros urbanos, y es por ello que muchos habitantes son reacios a su utilización frecuente, optando por vehículos de combustión interna con sus conocidas desventajas.
 
-Tambiénccreemos que realizando pequeñas inversiones en infraestructura, o adaptando la existente, es posible lograr que muchas más personas opten por medios individuales de transporte en convinacion con el transporte público, que son más simples de administrar en grandes cantidades y su impacto socio cultural es más saludable.
+También creemos que realizando pequeñas inversiones en infraestructura, o adaptando la existente, es posible lograr que muchas más personas opten por medios individuales de transporte en combinación con el transporte público, que son más simples de administrar en grandes cantidades y su impacto socio cultural es más saludable.
 
 ## Propuestas
 
