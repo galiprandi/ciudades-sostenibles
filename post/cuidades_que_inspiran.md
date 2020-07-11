@@ -1,6 +1,12 @@
 # Ciudades qué inspiran
 
->### Muchas grandes urbes se han adaptado con éxito a la movilidad individual y sin dudas deben ser ejemplos en los que inspirarse. Ciudades cómo: Ámsterdam, Copenhague, Barcelona, Bogotá, New York, Curitiva, Montreal entre otras.
+> ### Muchas grandes urbes se han adaptado con éxito a la movilidad individual y sin dudas deben ser ejemplos en los que inspirarse. Ciudades cómo: Ámsterdam, Copenhague, Barcelona, Bogotá, New York, Curitiva, Montreal entre otras.
+
+<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="788.54" height="443" type="text/html" 
+src="https://www.youtube.com/embed/HUbrLNHLfEU">
+</iframe>
+
+Copenhague, ciudad de bicicletas
 
 [![Copenhague, ciudad de bicicletas](http://img.youtube.com/vi/HUbrLNHLfEU/0.jpg)](http://www.youtube.com/watch?v=HUbrLNHLfEU "Copenhague, ciudad de bicicletas")
 
@@ -21,6 +27,5 @@ Video: Copenhague, ciudad de bicicletas
 ![Rio de Janiero, Brasil](cuidades_que_inspiran.6.jpg)(Rio de Janiero, Brasil)
 
 ![Montreal, Quebec, Canada](cuidades_que_inspiran.7.jpg)(Montreal, Quebec, Canada)
-
 
 ### [| Volver atrás |](../)
