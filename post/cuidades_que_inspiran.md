@@ -39,3 +39,5 @@
 ![San Francisco, USA](cuidades_que_inspiran.9.jpg)(San Francisco, USA)
 
 ### [| Volver atrás |](../)
+
+<a href="javascript:history.back()" class="btn">Volver Atrás</a>
