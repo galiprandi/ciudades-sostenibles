@@ -5,3 +5,6 @@ theme: jekyll-theme-cayman
 lang: es-AR
 show_downloads: false
 url: "https://galiprandi.github.io/ciudades-sostenibles"
+description: >- # this means to ignore newlines until "baseurl:"
+  Ciudades Sostenible es un proyecto que busca consolidar la movilidad individual, centrándose en la bicicleta, como eje de un nuevo orden socio cultural que promueva la sostenibilidad de la ciudades y re adapte sus espacios en beneficio de sus habitantes.
+timezone: America/Argentina/Tucuman
