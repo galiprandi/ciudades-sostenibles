@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/galiprandi/ciudades-sostenibles#readme",
   "devDependencies": {
-    "cssnano": "^4.1.10",
+    "cssnano": "^8.0.1",
     "marked": "^4.0.10"
   }
 }
