@@ -24,14 +24,14 @@ Muchas grandes urbes se han adaptado con éxito a la movilidad individual y sin 
 
 Estas ciudades, han adaptado sus centros urbanos para fomentar el **uso combinado** de transporte público y movilidad individual. Mejorando la calidad de vida de sus habitantes e incluso convirtiéndose en destinos turísticos y el anhelo de los ciudadanos de otras urbes.
 
-[Galería de Imágenes.](post/cuidades_que_inspiran.md)
+[Galería de Imágenes.](post/cuidades_que_inspiran.html)
 
 ## El origen del problema
 
 Por regla general, las ciudades evolucionan al ritmo de su crecimiento demográfico, sin demasiado planeamiento a futuro y atendiendo sólo las necesidades más inmediatas.
 
 Esto hace qué regularmente, sea necesario realizar grandes actualizaciones de infraestructura y servicios, colapsando por meses o años áreas críticas o sensibles para el el normal desenvolvimiento. A veces sólo con el fin de dar solución temporales o de corto plazo.
-[continúa...](post/el_origen_del_problema.md)
+[continúa...](post/el_origen_del_problema.html)
 
 ## Con el foco en la movilidad individual
 
@@ -49,26 +49,26 @@ Las propuestas se organizarán según las principales áreas que involucren, aun
 
 ## Seguridad
 
-> ### La seguridad es el Talón de Aquiles de éste tipo de movilidad, y muchas veces es la principal causa por la qué muchas iniciativas municipales no dispongan de la acogida esperada o perduren en el tiempo. Prácticamente todas las ciudad han creado [ciclo vías](post/ciclovias_si_pero.md) y en su mayoría están abandonadas o casi no se utilizan. Realizar obras no es suficiente, se necesita contemplar otros aspectos, muchas veces más importantes.
+> ### La seguridad es el Talón de Aquiles de éste tipo de movilidad, y muchas veces es la principal causa por la qué muchas iniciativas municipales no dispongan de la acogida esperada o perduren en el tiempo. Prácticamente todas las ciudad han creado [ciclo vías](post/ciclovias_si_pero.html) y en su mayoría están abandonadas o casi no se utilizan. Realizar obras no es suficiente, se necesita contemplar otros aspectos, muchas veces más importantes.
 
 - La seguridad incluye varios factores: - Seguridad física con respecto a vehículos más grandes - Seguridad ante robo o hurto durante el desplazamiento - Estacionamiento seguro de los vehículos.
 
-- Las [ciclo vías](post/ciclovias_si_pero.md) tienen cómo función, aislar el tránsito de mayor porte del más vulnerable, pero no son la única opción, también es posible restringir el acceso a determinadas áreas u horarios convirtiéndolas a uso peatonal y de pequeños vehículos. Esto favorece también al comercio y fomenta el cambio a largo plazo.
+- Las [ciclo vías](post/ciclovias_si_pero.html) tienen cómo función, aislar el tránsito de mayor porte del más vulnerable, pero no son la única opción, también es posible restringir el acceso a determinadas áreas u horarios convirtiéndolas a uso peatonal y de pequeños vehículos. Esto favorece también al comercio y fomenta el cambio a largo plazo.
 
 - El estacionamiento también es parte de la seguridad y puede usarse en favor de generar cambios de hábitos, por ejemplo proveyendo de espacios gratuitos y seguros y exigiendo a las empresas más grandes que cuenten con estos espacios también. Muchas veces se desiste de la idea de usar la bicicleta si no se está seguro que va a estar allí cuando uno regrese.
 
 ## Tránsito:
 
-- Diagramar y extender [ciclo vías](post/ciclovias_si_pero.md) y áreas de acceso exclusivo para peatones y medios individuales de movilidad.
+- Diagramar y extender [ciclo vías](post/ciclovias_si_pero.html) y áreas de acceso exclusivo para peatones y medios individuales de movilidad.
 
-- Crear estacionamiento exclusivos y gratuitos para bicicletas o pequeños vehículos distribuidos a los largo de las [ciclo vías](post/ciclovias_si_pero.md), zonas céntricas, grandes centros comerciales, instituciones educativas y municipales, espacios verdes y en donde la población lo requiera. Con los sistema de seguridad electrónica, física y humana necesarios para garantizar el resguardo de los vehículos.
+- Crear estacionamiento exclusivos y gratuitos para bicicletas o pequeños vehículos distribuidos a los largo de las [ciclo vías](post/ciclovias_si_pero.html), zonas céntricas, grandes centros comerciales, instituciones educativas y municipales, espacios verdes y en donde la población lo requiera. Con los sistema de seguridad electrónica, física y humana necesarios para garantizar el resguardo de los vehículos.
 
-- Reglamentar la implementación y el uso de los [carriles especiales](post/ciclovias_si_pero.md) para vehículos ecológicos o limitados a velocidades máximas.
+- Reglamentar la implementación y el uso de los [carriles especiales](post/ciclovias_si_pero.html) para vehículos ecológicos o limitados a velocidades máximas.
 
 ## Educación:
 
 - Proveer a las escuelas de bicicletas para que los niños realicen deportes que desarrollen el equilibrio y la motricidad fina y adquieran hábitos saludables en el proceso.
-  [Detalles de la propuesta](post/educacion__promocion.md)
+  [Detalles de la propuesta](post/educacion__promocion.html)
 
 - Promover el uso bicicletas o monopatines para desplazarse a los centros de enseñanza y centros de actividades deportivas, adaptando esos lugares y sus accesos para facilitar y priorizar el ingreso y resguardo de los vehículos.
 
@@ -101,7 +101,7 @@ Las propuestas se organizarán según las principales áreas que involucren, aun
 ## Comercio y Actividad Económica:
 
 - Facilitar la refacción y adquisición de bicicletas fomentando el comercio relacionado y generando una línea de crédito especial para ese fin.
-  [Detalles de la propuesta](post/propuestas__comercio__creditos.md)
+  [Detalles de la propuesta](post/propuestas__comercio__creditos.html)
 
 - Exigir a grandes comercios, bancos, instituciones, organismos y lugares de grandes afluencias de público que dispongan de espacios adecuados y seguros para el establecimiento de pequeños vehículos.
 
